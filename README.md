@@ -17,7 +17,7 @@ The dataset used, `schools.csv`, contains:
 ### Jupyter Notebook:
 Open `NYC-Public-School-SAT-Performance-Analysis.ipynb` in JupyterLab or Jupyter Notebook, and run the cells step-by-step.
 
-## 📈 Outputs
+## Outputs
 - `best_math_schools`: Schools with math scores ≥ 640.
 - `top_10_schools`: Schools with highest combined SAT scores.
 - `largest_std_dev`: Borough with the most score variability.
